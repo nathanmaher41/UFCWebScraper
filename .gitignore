@@ -1,0 +1,60 @@
+# --- Virtual environments (anywhere in the repo)
+**/venv/
+**/.venv/
+**/env/
+**/espn_env/
+
+# --- Python bytecode/cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Packaging / builds
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# --- Test & coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# --- Type checkers / linters
+.mypy_cache/
+.pytype/
+.pyre/
+.ruff_cache/
+
+# --- Jupyter
+.ipynb_checkpoints/
+
+# --- Env files (keep examples)
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# --- Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- OS files
+.DS_Store
+Thumbs.db
+
+# --- Misc caches & logs
+.cache/
+*.log
+
+# --- SQLite (if used)
+db.sqlite3
+*.sqlite3
+
+# --- pyenv (if used)
+.python-version

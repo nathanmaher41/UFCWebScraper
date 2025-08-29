@@ -1,0 +1,57 @@
+{
+  "id": "daff32bc96d1eabf",
+  "url": "http://ufcstats.com/event-details/daff32bc96d1eabf",
+  "name": "UFC 309: Jones vs. Miocic",
+  "date": "November 16, 2024",
+  "location": "New York City, New York, USA",
+  "fights": [
+    {
+      "fight_url": "http://ufcstats.com/fight-details/b35e47f2f58ef026",
+      "fight_id": "b35e47f2f58ef026"
+    },
+    {
+      "fight_url": "http://ufcstats.com/fight-details/4f4189009a190e35",
+      "fight_id": "4f4189009a190e35"
+    },
+    {
+      "fight_url": "http://ufcstats.com/fight-details/cfd3e62c638fbd1f",
+      "fight_id": "cfd3e62c638fbd1f"
+    },
+    {
+      "fight_url": "http://ufcstats.com/fight-details/8545a2495db16538",
+      "fight_id": "8545a2495db16538"
+    },
+    {
+      "fight_url": "http://ufcstats.com/fight-details/55eebc2ee92bf00a",
+      "fight_id": "55eebc2ee92bf00a"
+    },
+    {
+      "fight_url": "http://ufcstats.com/fight-details/2a930e2d7e1f87a9",
+      "fight_id": "2a930e2d7e1f87a9"
+    },
+    {
+      "fight_url": "http://ufcstats.com/fight-details/35c8223cc967fe0a",
+      "fight_id": "35c8223cc967fe0a"
+    },
+    {
+      "fight_url": "http://ufcstats.com/fight-details/c565e2baa27cc7e5",
+      "fight_id": "c565e2baa27cc7e5"
+    },
+    {
+      "fight_url": "http://ufcstats.com/fight-details/6c1faa6284428e5d",
+      "fight_id": "6c1faa6284428e5d"
+    },
+    {
+      "fight_url": "http://ufcstats.com/fight-details/00414fc5519233b4",
+      "fight_id": "00414fc5519233b4"
+    },
+    {
+      "fight_url": "http://ufcstats.com/fight-details/9676a4e9362e4bfd",
+      "fight_id": "9676a4e9362e4bfd"
+    },
+    {
+      "fight_url": "http://ufcstats.com/fight-details/40e2a7b65794ac05",
+      "fight_id": "40e2a7b65794ac05"
+    }
+  ]
+}
