@@ -60,7 +60,7 @@ This code is for **research/educational** use. You are responsible for how you u
 Check and respect:
 - Target sites’ **Terms of Use** and **robots.txt**
 - Applicable **local laws** and your hosting provider’s AUP  
-If a site requests you stop scraping, **stop**.
+If a site requests you stop scraping, **stop**.  
 -Provided as-is, without warranty. Not affiliated with UFC or ESPN.
 
 ---
